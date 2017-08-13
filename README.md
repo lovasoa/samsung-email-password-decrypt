@@ -23,5 +23,5 @@ The key itself is the result of a PBKDF2 key derivation with the following param
   * Password: `(qlBxn2qlB!ro@qkf?)`,
   * Salt: `samsung_sec_salt`,
   * Number of iterations: `100`,
-  * Key length 128 bits,
+  * Key length: `128` bits,
   * Hash algorithm: `SHA1`.
