@@ -25,3 +25,6 @@ The key itself is the result of a PBKDF2 key derivation with the following param
   * Number of iterations: `100`,
   * Key length: `128` bits,
   * Hash algorithm: `SHA1`.
+
+## External links
+  * Original implementation by [@yajin](https://github.com/yajin) : [`DecryptSamsungEmailPassword.java`](https://github.com/yajin/android_toolset/blob/039fa82/decrypt_samsung_email_password/src/org/yajin/android_forensics/tools/DecryptSamsungEmailPassword.java)
