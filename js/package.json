@@ -22,5 +22,6 @@
   "bugs": {
     "url": "https://github.com/lovasoa/samsung-email-password-decrypt/issues"
   },
-  "homepage": "https://github.com/lovasoa/samsung-email-password-decrypt#readme"
+  "homepage": "https://github.com/lovasoa/samsung-email-password-decrypt#readme",
+  "runkitExampleFilename": "example.js"
 }
