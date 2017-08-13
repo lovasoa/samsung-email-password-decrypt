@@ -9,4 +9,6 @@ Decrypt email accounts passwords extracted from Samsung android devices.
 var sp = require("samsung-password");
 
 sp.decode("frNQWuOXBQGUiGDpIwhRIQ=="); // -> "password"
+
+sp.encode("password"); // -> "frNQWuOXBQGUiGDpIwhRIQ=="
 ```
