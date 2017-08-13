@@ -12,3 +12,7 @@ sp.decode("frNQWuOXBQGUiGDpIwhRIQ=="); // -> "password"
 
 sp.encode("password"); // -> "frNQWuOXBQGUiGDpIwhRIQ=="
 ```
+
+## Demo
+
+ * [Test this library online](https://npm.runkit.com/samsung-password).
