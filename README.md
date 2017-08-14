@@ -1,6 +1,6 @@
 # samsung-email-password-decrypt
 
-Decrypt encrypted passwords in `EmailProvider.db` on samsung phones.
+Decrypt encrypted passwords in `EmailProvider.db` on samsung phones. You can use the tool presented here [online](https://lovasoa.github.io/samsung-email-password-decrypt/).
 
 ## How to recover your IMAP/POP/SMTP passwords from a samsung phone ?
 
@@ -35,6 +35,10 @@ echo "frNQWuOXBQGUiGDpIwhRIQ==" | openssl aes-128-cbc -d -a -K 0ea7923ecc6e979f6
 ```
 
 (where you replace `frNQWuOXBQGUiGDpIwhRIQ==` by your actual encoded password).
+
+## Web application
+
+There is a web application in javascript that allows you to decrypt the passwords without downloading or compiling anything yourself: [*samsung-password* webapp](https://lovasoa.github.io/samsung-email-password-decrypt/).
 
 ## External links
   * Original implementation by [@yajin](https://github.com/yajin) : [`DecryptSamsungEmailPassword.java`](https://github.com/yajin/android_toolset/blob/039fa82/decrypt_samsung_email_password/src/org/yajin/android_forensics/tools/DecryptSamsungEmailPassword.java)
