@@ -1,6 +1,6 @@
 {
   "name": "samsung-password",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Decrypt email passwords extracted from samsung devices.",
   "main": "samsung-password.js",
   "scripts": {
