@@ -30,7 +30,7 @@
 </template>
 
 <script>
-var samsungPassword = require("../samsung-password.js");
+var samsungPassword = require("samsung-password");
 
 export default {
   name: 'app',

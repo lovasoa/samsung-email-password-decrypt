@@ -9,6 +9,7 @@
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
   },
   "dependencies": {
+    "samsung-password": "^1.0.4",
     "vue": "^2.3.3"
   },
   "devDependencies": {
